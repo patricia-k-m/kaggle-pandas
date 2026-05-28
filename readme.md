@@ -12,6 +12,7 @@ Each lesson folder contains a Jupyter notebook with exercises completed locally 
 | Lesson 02 | Indexing, Selecting and Assigning |
 | Lesson 03 | Summary Functions and Maps        |
 | Lesson 04 | Grouping and Sorting              |
+| Lesson 05 | Data Types and Missing Values     |
 
 ## Tech Stack
 

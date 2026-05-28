@@ -13,6 +13,7 @@ Each lesson folder contains a Jupyter notebook with exercises completed locally 
 | Lesson 03 | Summary Functions and Maps        |
 | Lesson 04 | Grouping and Sorting              |
 | Lesson 05 | Data Types and Missing Values     |
+| Lesson 06 | Renaming and Combining            |
 
 ## Tech Stack
 
